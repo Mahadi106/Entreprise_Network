@@ -55,7 +55,7 @@ L'application du Port Security
 📂 Contenu du repository
 📄 Rapport du projet : documentation complète avec les configurations et les résultats.
 🌐 Fichier Cisco Packet Tracer (.pkt) : simulation complète du réseau.
-🎯 Objectif
+## 🎯 Objectif
 
 Ce projet a été réalisé dans le but de renforcer mes compétences pratiques en administration, configuration et sécurisation des réseaux informatiques, notamment dans un environnement Cisco.
 
